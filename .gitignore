@@ -1,7 +1,7 @@
 /build
 *.jar
-#.classpath
-#.settings
-#.project
-#**/META-INF/**/*
+.classpath
+.settings
+.project
+**/META-INF/**/*
 /target
